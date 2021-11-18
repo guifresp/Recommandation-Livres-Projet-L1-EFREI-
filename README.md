@@ -1,6 +1,10 @@
 # Recommandation-Livres-Projet-L1-EFREI-
 Le but de ce projet est de réaliser un outil informatique permettant de suggérer (recommander) aux lecteurs  des livres en fonction de leurs profils et de leurs anciennes lectures.
 
+///
+https://moodle.myefrei.fr/pluginfile.php/213799/mod_resource/content/1/Projet_Fr.pdf
+///
+
 Pour atteindre cet objectif, ce projet est divisé en 3 parties : 
 • Partie 1 : Gestion des profils des lecteurs
 o Ajouter un lecteur
